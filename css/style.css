@@ -1,0 +1,31 @@
+p {
+		color: indigo; 
+		line-height: 1.25;
+	margin-bottom: 1em;
+}
+            .first {
+		color: navy; 
+		font-weight: bold; 
+  		border-left: 5px solid beige;
+}
+body {
+    background-color: lightcyan;
+    color: navy;
+}
+div {
+   outline: 1px solid orange; 
+}
+.entry-wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    margin-bottom: 40p;
+    position: relative;
+    flex-wrap: wrap;
+}
+.entry {
+    width: 600px;
+}
+img {
+    width: 480px;
+}
